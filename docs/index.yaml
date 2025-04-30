@@ -3,7 +3,19 @@ entries:
   cortex-tenant:
   - apiVersion: v2
     appVersion: 1.13.0
-    created: "2025-04-30T09:52:27.9365643-07:00"
+    created: "2025-04-30T09:55:13.389419639-07:00"
+    description: A Helm Chart for cortex-tenant
+    digest: 4b76e402213d4a0ed850fba3fef0950fc628d099a7e5ec8ea264f2096f5b7b28
+    name: cortex-tenant
+    sources:
+    - https://github.com/blind-oracle/cortex-tenant
+    type: application
+    urls:
+    - cortex-tenant-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: 1.13.0
+    created: "2025-04-30T09:55:13.388837178-07:00"
     description: A Helm Chart for cortex-tenant
     digest: 06827609796f7f9463251cdefe437f26fa46e488b0825a9e8cd1a3838038ac8b
     name: cortex-tenant
@@ -15,7 +27,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.13.0
-    created: "2025-04-30T09:52:27.935972775-07:00"
+    created: "2025-04-30T09:55:13.388248185-07:00"
     description: A Helm Chart for cortex-tenant
     digest: 5c8329d569b12900b6343443f43b8ffa976e23b0c2175dcaeade51cb11ae881d
     name: cortex-tenant
@@ -27,7 +39,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.13.0
-    created: "2025-04-30T09:52:27.935207107-07:00"
+    created: "2025-04-30T09:55:13.387644785-07:00"
     description: A Helm Chart for cortex-tenant
     digest: b2025be4ae67a5b460dca8529adc6a7bc5b3dda1864e12cff759283ad6aa5f3d
     name: cortex-tenant
@@ -39,7 +51,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.13.0
-    created: "2025-04-30T09:52:27.934644455-07:00"
+    created: "2025-04-30T09:55:13.38700849-07:00"
     description: A Helm Chart for cortex-tenant
     digest: f55d2d0927459b1d30aa55ac280319896daf5aa63b48cc2f4664e7649ac2c76c
     name: cortex-tenant
@@ -51,7 +63,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.13.0
-    created: "2025-04-30T09:52:27.934070684-07:00"
+    created: "2025-04-30T09:55:13.386419113-07:00"
     description: A Helm Chart for cortex-tenant
     digest: f2b3499377fd5a34c6893e67ab79854c5c8c835b229a7cc7a67e0666cca9ab29
     name: cortex-tenant
@@ -63,7 +75,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2025-04-30T09:52:27.933542476-07:00"
+    created: "2025-04-30T09:55:13.385897986-07:00"
     description: A Helm Chart for cortex-tenant
     digest: 60131d246dca1ead2fea8a2c188f25a5fe3c4d90368ba091a4bd0e4e8e6dcceb
     name: cortex-tenant
@@ -75,7 +87,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2025-04-30T09:52:27.933038731-07:00"
+    created: "2025-04-30T09:55:13.385370134-07:00"
     description: A Helm Chart for cortex-tenant
     digest: 56abb06ce3f646b94932d36b0d4ed5e5386ec390ebfd7d9110036291086d6f39
     name: cortex-tenant
@@ -85,7 +97,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2025-04-30T09:52:27.932572623-07:00"
+    created: "2025-04-30T09:55:13.384514468-07:00"
     description: A Helm Chart for cortex-tenant
     digest: 834b006e449ae97219799bfa3b7bd274aa386978802dbd49279258f534cc4da5
     name: cortex-tenant
@@ -95,7 +107,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2025-04-30T09:52:27.931567543-07:00"
+    created: "2025-04-30T09:55:13.384119313-07:00"
     description: A Helm Chart for cortex-tenant
     digest: cf12ab22dd0973e94e15d8246f66ae35738dadfc489952f919ed326a1f7eed5a
     name: cortex-tenant
@@ -105,7 +117,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2025-04-30T09:52:27.931060389-07:00"
+    created: "2025-04-30T09:55:13.383725459-07:00"
     description: A Helm Chart for cortex-tenant
     digest: c967d4dea6ff8ae827133876f588d22bfa51d10168e4bca57f161b7ab6097c7c
     name: cortex-tenant
@@ -115,7 +127,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2025-04-30T09:52:27.930701043-07:00"
+    created: "2025-04-30T09:55:13.383370793-07:00"
     description: A Helm Chart for cortex-tenant
     digest: 8b9caea0e1774a6c8f3e627a63386f532498ca5f410927c702380692e5d20b61
     name: cortex-tenant
@@ -125,7 +137,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.10.1
-    created: "2025-04-30T09:52:27.930350101-07:00"
+    created: "2025-04-30T09:55:13.382989362-07:00"
     description: A Helm Chart for cortex-tenant
     digest: eabef3ad16e555543e32d9308994f76679e5fa54371cccd3957112f33a28a59e
     name: cortex-tenant
@@ -133,4 +145,4 @@ entries:
     urls:
     - cortex-tenant-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-30T09:52:27.929868016-07:00"
+generated: "2025-04-30T09:55:13.382506424-07:00"
